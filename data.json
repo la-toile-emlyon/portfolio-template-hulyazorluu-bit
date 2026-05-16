@@ -1,5 +1,5 @@
 {
-  "logo": "Nico DESIGN",
+  "logo": "Huliiiiiiiii",
 
   "nav": [
     { "label": "MES COMPÉTENCES", "href": "#competences" },
@@ -28,38 +28,38 @@
     {
       "titre": "Intégrateur front end",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.",
-      "tags": ["Javascript", "HTML/CSS", "Python", "Ruby"]
+      "tags": ["Javascript", "HTML/CSS", "Python"]
     }
   ],
 
   "projets": [
     {
       "titre":       "Album musique",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla.",
+      "description": "Création d’un site web inspiré de l’univers artistique de Tamino et de son album Amir, mettant en avant son esthétique, sa musique et son identité visuelle.",
       "tags":        ["Web design", "Development"],
-      "image":       "assets/project-img.jpeg",
+      "image":       "assets/tamino.png",
       "lien":        "#"
     },
     {
-      "titre":       "Sneakershop",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla.",
-      "tags":        ["Web design", "Development"],
-      "image":       "assets/project-img.jpeg",
+      "titre":       "Event App",
+      "description": "Wevent est une application mobile tout-en-un dédiée à la création et à l’organisation d’événements. Elle permet aux utilisateurs de concevoir, gérer et vivre des expériences événementielles de manière fluide, collaborative et intuitive.",
+      "tags":        ["Prototypage", "UI/UX Design"],
+      "image":       "assets/Hand and Iphone 16 Pro.jpg",
       "lien":        "#"
     },
     {
-      "titre":       "Site vitrine",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla.",
-      "tags":        ["Web design", "Development"],
-      "image":       "assets/project-img.jpeg",
+      "titre":       "Deezer API",
+      "description": " Utilisation de JavaScript pour manipuler le DOM et récupérer des données depuis l’API Deezer. Création d’une barre de recherche permettant de rechercher un artiste et d’afficher dynamiquement les chansons sous forme de cartes.",
+      "tags":        ["HTML/CSS", "Javascript"],
+      "image":       "assets/mockupDeezerAPI.jpg",
       "lien":        "#"
     }
   ],
 
   "parcours": [
-    { "annee": "2024", "titre": "Bachelor Développement Web",  "lieu": "LaToile / École"       },
-    { "annee": "2023", "titre": "Intégrateur front end",       "lieu": "Agence Studio / Entreprise" },
-    { "annee": "2022", "titre": "BTS Design Graphique",        "lieu": "Lycée Technique / École"    },
-    { "annee": "2021", "titre": "Stage UX Design",             "lieu": "StartupXYZ / Entreprise"    }
+    { "annee": "2024-2025", "titre": "Tester de logiciel",  "lieu": "M2i Formation (Apprentissage)" },
+    { "annee": "2024", "titre": "Liaison Officer",       "lieu": "Olympic Broadcasting Services" },
+    { "annee": "2023-2024", "titre": "UX Designer",        "lieu": "TANKE, Agence créative de marketing d’influence" },
+    { "annee": "2022", "titre": "Assistante Planner Stratégique",             "lieu": "AustralieGAD, Agence de Publicité" }
   ]
 }
